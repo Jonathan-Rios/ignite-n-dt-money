@@ -32,7 +32,7 @@
 <h3 align="center">Imagem prévia da aplicação</h3>
 
 <div align="center">
-  <img src=".github/project-preview.png?style=flat" alt="Cover" width="1000" height="600">
+  <img src=".github/project-preview.png?style=flat" alt="Cover" >
 </div> 
  
 
